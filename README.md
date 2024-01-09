@@ -20,7 +20,7 @@ List of organizations offering vulnerability research and/or reverse engineering
 
 
 | __Firm__ | __URL__ | __tags__ |
-:--- |:--- |:--- 
+:--- |:--- |:---
 8kSec | [http://8ksec.io/careers/](http://8ksec.io/careers/)
 Apple (SEAR) | [https://jobs.apple.com/](https://jobs.apple.com/)
 Atredis | [https://www.atredis.com/careers](https://www.atredis.com/careers)
@@ -39,6 +39,7 @@ Corellium | [https://www.corellium.com/careers/](https://www.corellium.com/caree
 Cromulence | [https://cromulence.com/careers/](https://cromulence.com/careers/)
 CrowdStrike | [https://www.crowdstrike.com/careers/](https://www.crowdstrike.com/careers/)
 DFSec | [https://dfsec.com/](https://dfsec.com/)
+DUASYNT | [https://duasynt.com/careers](https://duasynt.com/careers)
 Exodus Intelligence | [https://exodusintel.com/](https://exodusintel.com/)
 Foundry Zero | [https://foundryzero.co.uk/](https://foundryzero.co.uk/)
 Galois | [https://galois.com/careers/](https://galois.com/careers/)
@@ -76,5 +77,4 @@ Uptcys | [https://www.uptycs.com/](https://www.uptycs.com/)
 Vigilant Labs | [https://www.vigilantlabs.com/](https://www.vigilantlabs.com/)
 ZeTier | [https://www.zetier.com/](https://www.zetier.com/)
 Zellic | [https://www.zellic.io/](https://www.zellic.io/)
-
 
