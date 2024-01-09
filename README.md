@@ -52,6 +52,7 @@ MagnetForensics (Formerly Grayshift) | [https://www.magnetforensics.com/](https:
 Microsoft (MORSE, MSRC) | [https://jobs.careers.microsoft.com/](https://jobs.careers.microsoft.com/)
 NCC | [https://www.nccgroupplc.com/careers/](https://www.nccgroupplc.com/careers/)
 Northrop Grumman | [https://www.northropgrumman.com/](https://www.northropgrumman.com/)
+Nozomi | [https://www.nozominetworks.com/company/careers](https://www.nozominetworks.com/company/careers)
 Nvidia (Offensive Security Research / OSR) | [https://www.nvidia.com/en-us/about-nvidia/careers/](https://www.nvidia.com/en-us/about-nvidia/careers/)
 PKSecurity | [https://pksecurity.io/](https://pksecurity.io/)
 Parsons | [https://www.parsons.com/careers/](https://www.parsons.com/careers/)
