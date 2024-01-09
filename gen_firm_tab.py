@@ -7,7 +7,7 @@ if len(sys.argv) != 2 :
     print(f"Usage: python {sys.argv[0]} <firms.json>")
     sys.exit(-1)
 
-firms = [ (x['firm'], x['url']) for x in json.load(open(sys.argv[1]))]
+firms = [ [x['firm'], x['url']] + [x[k] for k in x.keys() if k not in ['url','firm']] for x in json.load(open(sys.argv[1]))]
 firms.sort(key=lambda x: x[0])
 
 print(
