@@ -1,328 +1,79 @@
-# jobs and shells for you
-<table>
-  <tr>
-   <td><strong>Name</strong>
-   </td>
-   <td><strong>Link</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>8kSec
-   </td>
-   <td><a href="http://8ksec.io/careers/">http://8ksec.io/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Apple (SEAR)
-   </td>
-   <td><a href="https://jobs.apple.com/">https://jobs.apple.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Atredis
-   </td>
-   <td><a href="https://www.atredis.com/careers">https://www.atredis.com/careers</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Azimuth Security
-   </td>
-   <td><a href="https://www.azimuthsecurity.com/">https://www.azimuthsecurity.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>BAE
-   </td>
-   <td><a href="https://cybercareers.baesystems.com/">https://cybercareers.baesystems.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Battelle
-   </td>
-   <td><a href="https://jobs.battelle.org/us/en/cyber">https://jobs.battelle.org/us/en/cyber</a>
-   </td>
-  </tr>
-  <tr>
-   <td>BinaryGecko
-   </td>
-   <td><a href="https://binarygecko.com/">https://binarygecko.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Blue-Frost Security
-   </td>
-   <td><a href="https://www.bluefrostsecurity.de/en/company/careers/">https://www.bluefrostsecurity.de/en/company/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Cellebrite
-   </td>
-   <td><a href="https://cellebrite.com/en/home/">https://cellebrite.com/en/home/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Census
-   </td>
-   <td><a href="https://census-labs.com/openings/">https://census-labs.com/openings/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Chameleon Consulting Group
-   </td>
-   <td><a href="https://chameleoncg.com/careers/">https://chameleoncg.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Cisco Talos
-   </td>
-   <td><a href="https://talosintelligence.com/">https://talosintelligence.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>ClevCode
-   </td>
-   <td><a href="https://clevcode.org/">https://clevcode.org/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Corellium
-   </td>
-   <td><a href="https://www.corellium.com/careers/">https://www.corellium.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>CoreTech Security
-   </td>
-   <td><a href="https://www.coretechsec.com/">https://www.coretechsec.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Cromulence	
-   </td>
-   <td><a href="https://cromulence.com/careers/">https://cromulence.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>CrowdStrike
-   </td>
-   <td><a href="https://www.crowdstrike.com/careers/">https://www.crowdstrike.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>DFSec 
-   </td>
-   <td><a href="https://dfsec.com/">https://dfsec.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Exodus Intelligence
-   </td>
-   <td><a href="https://exodusintel.com/">https://exodusintel.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Foundry Zero
-   </td>
-   <td><a href="https://foundryzero.co.uk/">https://foundryzero.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Galois
-   </td>
-   <td><a href="https://galois.com/careers/">https://galois.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>HMGCC
-   </td>
-   <td><a href="https://www.hmgcc.gov.uk/apply/">https://www.hmgcc.gov.uk/apply/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Intel (STORM)
-   </td>
-   <td><a href="https://jobs.intel.com/en">https://jobs.intel.com/en</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Interrupt Labs
-   </td>
-   <td><a href="https://www.interruptlabs.co.uk/">https://www.interruptlabs.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>IOactive
-   </td>
-   <td><a href="https://ioactive.com/careers/">https://ioactive.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Kudu Dynamics
-   </td>
-   <td><a href="https://www.kududyn.com/">https://www.kududyn.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>MagnetForensics (Formerly Grayshift)
-   </td>
-   <td><a href="https://www.magnetforensics.com/">https://www.magnetforensics.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Microsoft (MORSE, MSRC)
-   </td>
-   <td><a href="https://jobs.careers.microsoft.com/">https://jobs.careers.microsoft.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>MSAB
-   </td>
-   <td><a href="https://www.msab.com/">https://www.msab.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>NCC
-   </td>
-   <td><a href="https://www.nccgroupplc.com/careers/">https://www.nccgroupplc.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Northrop Grumman
-   </td>
-   <td><a href="https://www.northropgrumman.com/">https://www.northropgrumman.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Nvidia (Offensive Security Research / OSR)
-   </td>
-   <td><a href="https://www.nvidia.com/en-us/about-nvidia/careers/">https://www.nvidia.com/en-us/about-nvidia/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>PixiePointSecurity
-   </td>
-   <td><a href="https://www.pixiepointsecurity.com/">https://www.pixiepointsecurity.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>PKSecurity
-   </td>
-   <td><a href="https://pksecurity.io/">https://pksecurity.io/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Praetorian
-   </td>
-   <td><a href="https://www.praetorian.com/">https://www.praetorian.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Qualys
-   </td>
-   <td><a href="https://www.qualys.com/careers/">https://www.qualys.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Quarkslab
-   </td>
-   <td><a href="https://www.quarkslab.com/careers/">https://www.quarkslab.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Raytheon
-   </td>
-   <td><a href="https://careers.rtx.com/">https://careers.rtx.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Research Innovations
-   </td>
-   <td><a href="https://www.researchinnovations.com/">https://www.researchinnovations.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>RevEng
-   </td>
-   <td><a href="https://reveng.ai/">https://reveng.ai/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Roke Manor
-   </td>
-   <td><a href="https://roke.co.uk/careers/">https://roke.co.uk/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Safateam
-   </td>
-   <td><a href="https://www.safateam.com/">https://www.safateam.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Secfence
-   </td>
-   <td><a href="https://www.secfence.com/">https://www.secfence.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>SSD-Labs
-   </td>
-   <td><a href="https://ssd-labs.com/">https://ssd-labs.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>STAR Labs
-   </td>
-   <td><a href="https://starlabs.sg/">https://starlabs.sg/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Synacktiv
-   </td>
-   <td><a href="https://www.synacktiv.com/en/join-us">https://www.synacktiv.com/en/join-us</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Trail of Bits
-   </td>
-   <td><a href="https://www.trailofbits.com/">https://www.trailofbits.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Trenchant Labs
-   </td>
-   <td><a href="https://trenchant.io/">https://trenchant.io/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Uptcys
-   </td>
-   <td><a href="https://www.uptycs.com/">https://www.uptycs.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Vigilant Labs
-   </td>
-   <td><a href="https://www.vigilantlabs.com/">https://www.vigilantlabs.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Zellic
-   </td>
-   <td><a href="https://www.zellic.io/">https://www.zellic.io/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>ZeTier
-   </td>
-   <td><a href="https://www.zetier.com/">https://www.zetier.com/</a>
-   </td>
-  </tr>
-</table>
+# vr-rev-jobs
+
+List of organizations offering vulnerability research and/or reverse engineering jobs
 
 
-_feel free to send PR to add more to the list_
+<br />
 
-**_note - the list is in alphabetical order_**
+----
+
+## Notes
+
+ - The table is auto-generated by running `python gen_firm_tab.py firms.json`
+ - To add a firm modify [firms.json](./firms.json)
+
+<br />
+
+----
+
+## Firms list's content
+
+
+| __Firm__ | __URL__ | __tags__ |
+:--- |:--- |:--- 
+8kSec | [http://8ksec.io/careers/](http://8ksec.io/careers/)
+Apple (SEAR) | [https://jobs.apple.com/](https://jobs.apple.com/)
+Atredis | [https://www.atredis.com/careers](https://www.atredis.com/careers)
+Azimuth Security | [https://www.azimuthsecurity.com/](https://www.azimuthsecurity.com/)
+BAE | [https://cybercareers.baesystems.com/](https://cybercareers.baesystems.com/)
+Battelle | [https://jobs.battelle.org/us/en/cyber](https://jobs.battelle.org/us/en/cyber)
+BinaryGecko | [https://binarygecko.com/](https://binarygecko.com/)
+Blue-Frost Security | [https://www.bluefrostsecurity.de/en/company/careers/](https://www.bluefrostsecurity.de/en/company/careers/)
+Cellebrite | [https://cellebrite.com/en/home/](https://cellebrite.com/en/home/)
+Census | [https://census-labs.com/openings/](https://census-labs.com/openings/)
+Chameleon Consulting Group | [https://chameleoncg.com/careers/](https://chameleoncg.com/careers/)
+Cisco Talos | [https://talosintelligence.com/](https://talosintelligence.com/)
+ClevCode | [https://clevcode.org/](https://clevcode.org/)
+CoreTech Security | [https://www.coretechsec.com/](https://www.coretechsec.com/)
+Corellium | [https://www.corellium.com/careers/](https://www.corellium.com/careers/)
+Cromulence | [https://cromulence.com/careers/](https://cromulence.com/careers/)
+CrowdStrike | [https://www.crowdstrike.com/careers/](https://www.crowdstrike.com/careers/)
+DFSec | [https://dfsec.com/](https://dfsec.com/)
+Exodus Intelligence | [https://exodusintel.com/](https://exodusintel.com/)
+Foundry Zero | [https://foundryzero.co.uk/](https://foundryzero.co.uk/)
+Galois | [https://galois.com/careers/](https://galois.com/careers/)
+HMGCC | [https://www.hmgcc.gov.uk/apply/](https://www.hmgcc.gov.uk/apply/)
+IOactive | [https://ioactive.com/careers/](https://ioactive.com/careers/)
+Intel (STORM) | [https://jobs.intel.com/en](https://jobs.intel.com/en)
+Interrupt Labs | [https://www.interruptlabs.co.uk/](https://www.interruptlabs.co.uk/)
+Kudu Dynamics | [https://www.kududyn.com/](https://www.kududyn.com/)
+MSAB | [https://www.msab.com/](https://www.msab.com/)
+MagnetForensics (Formerly Grayshift) | [https://www.magnetforensics.com/](https://www.magnetforensics.com/)
+Microsoft (MORSE, MSRC) | [https://jobs.careers.microsoft.com/](https://jobs.careers.microsoft.com/)
+NCC | [https://www.nccgroupplc.com/careers/](https://www.nccgroupplc.com/careers/)
+Northrop Grumman | [https://www.northropgrumman.com/](https://www.northropgrumman.com/)
+Nvidia (Offensive Security Research / OSR) | [https://www.nvidia.com/en-us/about-nvidia/careers/](https://www.nvidia.com/en-us/about-nvidia/careers/)
+PKSecurity | [https://pksecurity.io/](https://pksecurity.io/)
+Parsons | [https://www.parsons.com/careers/](https://www.parsons.com/careers/)
+PixiePointSecurity | [https://www.pixiepointsecurity.com/](https://www.pixiepointsecurity.com/)
+Praetorian | [https://www.praetorian.com/](https://www.praetorian.com/)
+Qualys | [https://www.qualys.com/careers/](https://www.qualys.com/careers/)
+Quarkslab | [https://www.quarkslab.com/careers/](https://www.quarkslab.com/careers/)
+Raytheon | [https://careers.rtx.com/](https://careers.rtx.com/)
+Research Innovations | [https://www.researchinnovations.com/](https://www.researchinnovations.com/)
+RevEng | [https://reveng.ai/](https://reveng.ai/)
+Roke Manor | [https://roke.co.uk/careers/](https://roke.co.uk/careers/)
+SSD-Labs | [https://ssd-labs.com/](https://ssd-labs.com/)
+STAR Labs | [https://starlabs.sg/](https://starlabs.sg/)
+Safateam | [https://www.safateam.com/](https://www.safateam.com/)
+Secfence | [https://www.secfence.com/](https://www.secfence.com/)
+Synacktiv | [https://www.synacktiv.com/en/join-us](https://www.synacktiv.com/en/join-us)
+Trail of Bits | [https://www.trailofbits.com/](https://www.trailofbits.com/)
+Trenchant Labs | [https://trenchant.io/](https://trenchant.io/)
+TwoSixTech | [https://twosixtech.com/careers/](https://twosixtech.com/careers/)
+Uptcys | [https://www.uptycs.com/](https://www.uptycs.com/)
+Vigilant Labs | [https://www.vigilantlabs.com/](https://www.vigilantlabs.com/)
+ZeTier | [https://www.zetier.com/](https://www.zetier.com/)
+Zellic | [https://www.zellic.io/](https://www.zellic.io/)
 
 
